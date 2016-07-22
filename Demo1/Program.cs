@@ -51,7 +51,7 @@ namespace Demo1
                         }
                         else
                         {
-                            Console.WriteLine("File not exist");
+                            Console.WriteLine("File not exist or can not read");
                         }
                         break;
                     case 4:
@@ -71,7 +71,7 @@ namespace Demo1
                         }
                         else
                         {
-                            Console.WriteLine("File not exist");
+                            Console.WriteLine("File not exist or can not read");
                         }
                         break;
                     default:
